@@ -55,13 +55,3 @@ counter = 0
 for bike in bikes:
     print("{0} - {1} uints in inventory".format(bike[0],shop.inventory[counter]))
     counter += 1
-
-
-
-        
-    
-        
-        
-            
-           
-
